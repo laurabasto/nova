@@ -1,0 +1,49 @@
+.wpb-layout-element-button[data-element=container-slider] .vc_element-icon, 
+.vc_element-icon.container-slider {
+  background-image: url(./images/slide.png);
+  width: 45px;
+  height: 45px;
+  background-size: cover;
+}
+.wpb-layout-element-button[data-element=content-slider] .vc_element-icon, 
+.vc_element-icon.content-slider, .wpb-layout-element-button[data-element=content-slider-link] .vc_element-icon, 
+.vc_element-icon.content-slider-link {
+  background-image: url(./images/single-slide.png);
+  width: 45px;
+  height: 45px;
+  background-size: cover;
+}
+.wpb-layout-element-button[data-element=container-slider-link] .vc_element-icon, 
+.vc_element-icon.container-slider-link {
+  background-image: url(./images/sliders.png);
+  width: 45px;
+  height: 45px;
+  background-size: cover;
+}
+
+.wpb-layout-element-button[data-element=container-countdown] .vc_element-icon, 
+.vc_element-icon.container-countdown {
+  background-image: url(./images/countdown.png);
+  width: 45px;
+  height: 45px;
+  background-size: cover;
+}
+.wpb-layout-element-button[data-element=aspect-ratio-vc-block] .vc_element-icon, 
+.vc_element-icon.aspect-ratio-vc-block {
+  background-image: url(./images/image-gallery.png);
+  width: 45px;
+  height: 45px;
+  background-size: cover;
+}
+.wpb-layout-element-button[data-element=aspect-ratio-content-vc-block] .vc_element-icon, 
+.vc_element-icon.aspect-ratio-content-vc-block {
+  background-image: url(./images/image-gallery.png);
+  width: 45px;
+  height: 45px;
+  background-size: cover;
+}
+.wpb_machine_skills_content .wpb_element_wrapper .wpb_vc_param_value,
+.wpb_slider_skills_content .wpb_element_wrapper .wpb_vc_param_value,
+.wpb_countdown .wpb_element_wrapper .wpb_vc_param_value{
+  display: none!important;
+}/**/
